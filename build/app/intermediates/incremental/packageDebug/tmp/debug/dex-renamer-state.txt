@@ -1,0 +1,4 @@
+#Sat Dec 02 12:25:26 IST 2023
+base.0=/Users/I527261/Desktop/CPAD/flutter-todo-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
